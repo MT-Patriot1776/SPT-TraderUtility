@@ -1,0 +1,92 @@
+﻿{
+    "items":  [
+                  {
+                      "_comment":  "CAT (Combat Application Tourniquet) prevents blood loss by blocking the blood outlet by applying pressure to the affected limb. It uses a self-adjusting tensioning system and a tug-resistant buckle.",
+                      "_id":  "60098af40accd37ef2175f27",
+                      "_tpl":  "60098af40accd37ef2175f27",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "Sportsman Series Grizzly Medical Kit is considered one of the best first aid kits. It contains everything necessary to provide immediate medical care in extreme conditions.",
+                      "_id":  "590c657e86f77412b013051d",
+                      "_tpl":  "590c657e86f77412b013051d",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "The CALOK-B applicator hemostatic agent allows you to inject hemostatic granules through a wound opening directly to the source of bleeding in just a few seconds.",
+                      "_id":  "5e8488fa988a8701445df1e4",
+                      "_tpl":  "5e8488fa988a8701445df1e4",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  },
+                  {
+                      "_comment":  "AFAK (Adaptive First Aid Kit). A more advanced version of the IFAK individual first aid kit. The compact kit provides the individual soldier or law enforcement officer with a necessary lifesaving equipment to effectively treat injuries commonly associated with combat trauma.",
+                      "_id":  "60098ad7c2240c0fe85c570a",
+                      "_tpl":  "60098ad7c2240c0fe85c570a",
+                      "slotId":  "hideout",
+                      "parentId":  "hideout",
+                      "upd":  {
+                                  "StackObjectsCount":  999999999,
+                                  "UnlimitedCount":  true
+                              }
+                  }
+              ],
+    "barter_scheme":  {
+                          "60098af40accd37ef2175f27":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "CAT (Combat Application Tourniquet) prevents blood loss by blocking the blood outlet by applying pressure to the affected limb. It uses a self-adjusting tensioning system and a tug-resistant buckle.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  3749
+                                                               }
+                                                           ]
+                                                       ],
+                          "590c657e86f77412b013051d":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "Sportsman Series Grizzly Medical Kit is considered one of the best first aid kits. It contains everything necessary to provide immediate medical care in extreme conditions.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  59661
+                                                               }
+                                                           ]
+                                                       ],
+                          "5e8488fa988a8701445df1e4":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "The CALOK-B applicator hemostatic agent allows you to inject hemostatic granules through a wound opening directly to the source of bleeding in just a few seconds.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  13190
+                                                               }
+                                                           ]
+                                                       ],
+                          "60098ad7c2240c0fe85c570a":  [
+                                                           [
+                                                               {
+                                                                   "_comment":  "AFAK (Adaptive First Aid Kit). A more advanced version of the IFAK individual first aid kit. The compact kit provides the individual soldier or law enforcement officer with a necessary lifesaving equipment to effectively treat injuries commonly associated with combat trauma.",
+                                                                   "_tpl":  "5449016a4bdc2d6f028b456f",
+                                                                   "count":  27303
+                                                               }
+                                                           ]
+                                                       ]
+                      },
+    "loyal_level_items":  {
+                              "60098af40accd37ef2175f27":  3,
+                              "590c657e86f77412b013051d":  3,
+                              "5e8488fa988a8701445df1e4":  3,
+                              "60098ad7c2240c0fe85c570a":  3
+                          }
+}

@@ -1,0 +1,92 @@
+{
+	"items": [
+		{
+			"_comment": "AFAKFirstAidKit",
+			"_id": "60098ad7c2240c0fe85c570a",
+			"_tpl": "60098ad7c2240c0fe85c570a",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "GrizzleyMedicalKit",
+			"_id": "590c657e86f77412b013051d",
+			"_tpl": "590c657e86f77412b013051d",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "Hemostat P1",
+			"_id": "5e8488fa988a8701445df1e4",
+			"_tpl": "5e8488fa988a8701445df1e4",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		},
+		{
+			"_comment": "CATTourniquet P1",
+			"_id": "60098af40accd37ef2175f27",
+			"_tpl": "60098af40accd37ef2175f27",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999999
+			}
+		}
+	],
+	"barter_scheme": {
+        "60098ad7c2240c0fe85c570a": [
+            [
+                {
+					"_comment": "AFAKFirstAidKit",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 25
+                }
+            ]
+        ],
+        "590c657e86f77412b013051d": [
+            [
+                {
+					"_comment": "GrizzleyMedicalKit",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 35
+                }
+            ]
+        ],
+        "5e8488fa988a8701445df1e4": [
+            [
+                {
+					"_comment": "Hemostat",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 7
+                }
+            ]
+        ],
+        "60098af40accd37ef2175f27": [
+            [
+                {
+					"_comment": "CATTourniquet",
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 5
+                }
+            ]
+        ]
+	},
+  "loyal_level_items": {
+    "60098ad7c2240c0fe85c570a": 1,
+    "590c657e86f77412b013051d": 1,
+    "60098af40accd37ef2175f27": 1,
+    "5e8488fa988a8701445df1e4": 1
+  }
+}
